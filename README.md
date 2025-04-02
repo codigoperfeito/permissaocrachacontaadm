@@ -48,35 +48,8 @@ O sistema foi desenvolvido para:
 
 ---
 
-## **Link para o Código Fonte**
-
-- [Acesse o código completo no GitHub](https://github.com/codigoperfeito/permissaocrachacontaadm)
-
 O código fonte está disponível no repositório, dentro do arquivo `permissao_cracha.ino`.
 
----
-
-## **Evidências do Projeto**
-
-A seguir, algumas evidências documentam o processo de desenvolvimento e implementação do sistema:
-
-### **1. Código Fonte**
-
-O código completo está disponível no repositório do GitHub, com detalhes sobre a implementação e as bibliotecas necessárias para a execução.
-
-- **Link:** [Código no GitHub](https://github.com/codigoperfeito/permissaocrachacontaadm)
-
-### **2. Capturas de Tela da IDE do Arduino**
-
-- **Print1.jpg** e **Print2.jpg**: Imagens mostrando o código na IDE do Arduino durante o processo de desenvolvimento.
-
-### **3. Demonstração em Vídeo**
-
-- **video.mp4**: Um vídeo mostrando o funcionamento do sistema no protótipo, com o crachá RFID sendo lido e a mensagem de acesso sendo exibida no display OLED.
-
-### **4. Entrevista de Feedback**
-
-- **Imagem3.jpg**: Foto da entrevista de feedback com um dos funcionários de marketing da empresa. A entrevista ajudou a avaliar o impacto do sistema e coletar sugestões de melhorias.
 
 ---
 
